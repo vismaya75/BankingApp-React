@@ -4,9 +4,12 @@
 h1{
     color: royalblue;
 }
-.login{
+ /* .login{
     background-image:url('bk.jpeg') ;
-}
+}  */
 label{
-    color:white;
+    color:black;
+}
+.styles{
+    color: red;
 }
